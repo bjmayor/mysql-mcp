@@ -43,4 +43,3 @@ rmcp = { git = "https://github.com/modelcontextprotocol/rust-sdk", features = [
   "client",
   "transport-child-process",
 ] }
-sqlx-db-tester = "0.6"
